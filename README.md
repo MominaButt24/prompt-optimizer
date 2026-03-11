@@ -1,6 +1,6 @@
 # AI Prompt Optimizer (Demo)
 
-A lightweight 1–2 day demo app that improves and scores AI prompts.
+A lightweight demo app that improves and scores AI prompts.
 
 ## Stack
 
